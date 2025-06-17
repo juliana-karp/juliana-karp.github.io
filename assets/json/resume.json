@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Juliana Karp",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "jsmkarp@uw.edu",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -47,13 +47,23 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "University of Washington",
+      "location": "Seattle, Washington",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "endDate": "~2030",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Yale University",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2021",
+      "endDate": "2025",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
