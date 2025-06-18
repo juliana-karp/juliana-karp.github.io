@@ -20,29 +20,35 @@
   type: time_table
   contents:
     - title: Student Researcher
-      institution: Department of Astronomy, Yale University
+      institution: Department of Astronomy, Yale University, New Haven, CT
       year: 2025
       description:
-        - Project: Identifying thousands of new strong galaxy-galaxy gravitational lens candidates via DESI spectroscopy.
-        - Advisors: Nikhil Padmanabhan & David Schlegel.
+        - <u>Project:</u> Identifying thousands of new strong galaxy-galaxy gravitational lens candidates via DESI spectroscopy.
+        - <u>Advisors:</u> Nikhil Padmanabhan & David Schlegel.
     - title: Student Undergraduate Laboratory Internships (SULI) Researcher
-      institution: Lawrence Berkeley National Laboratory
+      institution: Lawrence Berkeley National Laboratory, Berkeley, CA
       year: 2024
       description:
-        - Project: Identifying strong galaxy-galaxy gravitational lens candidates via DESI spectroscopy.
-        - Advisors: David Schlegel, Xiaosheng Huang & Adam Bolton.
+        - <u>Project:</u> Identifying strong galaxy-galaxy gravitational lens candidates via DESI spectroscopy.
+        - <u>Advisors:</u> David Schlegel, Xiaosheng Huang & Adam Bolton.
+    - title: Student Researcher
+      institution: Department of Astronomy, Yale University, New Haven, CT
+      year: 2024
+      description:
+        - <u>Project:</u> Characterizing diffuse intercluster gas in simulations.
+        - <u>Advisor:</u> Daisuke Nagai.
     - title: Summer Research Early Identification Program (SR-EIP) Researcher
-      institution: Stanford's Kavli Institute for Particle Astrophysics and Cosmology
+      institution: Kavli Institute for Particle Astrophysics and Cosmology, Stanford, CA
       year: 2023
       description:
-        - Project: Characterizing the galaxy group environment of NGC 4993, origin of the first observed binary neutron star merger.
-        - Advisor: Risa Wechsler.
+        - <u>Project:</u> Characterizing the galaxy group environment of NGC 4993, origin of the first observed binary neutron star merger.
+        - <u>Advisors:</u> Risa Wechsler & Viraj Manwadkar.
     - title: Student Researcher
-      institution: Stanford's Kavli Institute for Particle Astrophysics and Cosmology
+      institution: Kavli Institute for Particle Astrophysics and Cosmology, Stanford, CA
       year: 2022
       description:
-        - Project: Investigating the causes of anisotropic satellite galaxy quenching in cosmological simulations.
-        - Advisors: Risa Wechsler & Johannes Lange.
+        - <u>Project:</u> Investigating the causes of anisotropic satellite galaxy quenching in cosmological simulations.
+        - <u>Advisors:</u> Risa Wechsler & Johannes Lange.
 
 - title: Awards & Fellowships
   type: time_table
