@@ -162,6 +162,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/teaching.md
+  - assets/json/resume.json
 keep_files:
   - CNAME
   - .nojekyll
