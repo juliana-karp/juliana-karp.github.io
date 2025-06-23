@@ -23,4 +23,4 @@ I received my B.S. in Astrophysics from <a href='https://astronomy.yale.edu/'>Ya
 
 Outside of astronomy, I swim and figure skate competitively, and love hiking and exploring nature.
 
-This website is under construction.
+This site is under construction.
