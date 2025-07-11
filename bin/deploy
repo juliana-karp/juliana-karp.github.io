@@ -104,7 +104,7 @@ mv _site/* .
 rm -R _site/
 
 # Create `.nojekyll` file (bypass GitHub Pages Jekyll processing)
-touch .nojekyll
+# touch .nojekyll
 
 # Push to DEPLOY_BRANCH
 git add -fA
