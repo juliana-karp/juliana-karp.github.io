@@ -18,7 +18,7 @@ Hi! I'm an <a href='https://www.nsfgrfp.org/'>NSF Graduate Research Fellow</a> a
 
 I received my B.S. in Astrophysics from <a href='https://astronomy.yale.edu/'>Yale University</a> in 2025. During my undergraduate degree, I researched anisotropic satellite galaxy quenching, galaxy groups, and strong gravitational lensing.
 
-Outside of astronomy, I swim and figure skate competitively, and love hiking and exploring nature.
+Outside of astronomy, I swim and figure skate, and love exploring nature.
 
 Contact: [jsmkarp@uw.edu](mailto:jsmkarp@uw.edu)
 
