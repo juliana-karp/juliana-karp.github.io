@@ -337,7 +337,6 @@ let setTheme = (theme) => {
         bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Light");
       }
     }
-
   } else {
     document.documentElement.removeAttribute("data-theme");
   }
@@ -347,10 +346,7 @@ let setTheme = (theme) => {
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== "undefined") {
     medium_zoom.update({
-      background:
-        getComputedStyle(document.documentElement).getPropertyValue(
-          "--global-bg-color"
-        ) + "ee", // + 'ee' for trasparency.
+      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
     });
   }
 };

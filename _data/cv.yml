@@ -2,7 +2,7 @@
 #   type: map
 #   contents:
 #     - name: Full Name
-#       value: Juliana S.M. Karp 
+#       value: Juliana S.M. Karp
 #     - name: Languages
 #       value: English, French, Spanish
 
@@ -65,7 +65,6 @@
     - year: 2024
       items:
         - American Astronomical Society, Chambliss Astronomy Achievement Student Awards Honorable Mention
-
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
