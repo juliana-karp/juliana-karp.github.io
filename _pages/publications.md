@@ -15,10 +15,10 @@ nav_order: 2
 
 <div class="publications">
 
-  <h2>First Author Publications</h2>
+  <h2>First author publications</h2>
   {% bibliography --file firstauthor %}
 
-  <h2>Co-authored Publications</h2>
+  <h2>Coauthor publications</h2>
   {% bibliography --file coauthor %}
 
 </div>
