@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: jsmkarp@uw.edu
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,5 +20,3 @@ I received my B.S. in Astrophysics from <a href='https://astronomy.yale.edu/'>Ya
 Outside of astronomy, I swim and figure skate, and love reading and exploring nature.
 
 Contact: [jsmkarp@uw.edu](mailto:jsmkarp@uw.edu)
-
-This site is under construction.
