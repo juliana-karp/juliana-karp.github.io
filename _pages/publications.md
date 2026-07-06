@@ -9,20 +9,14 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Custom header with title and button -->
-<div class="d-flex justify-content-between align-items-center mb-3">
-  <h1 class="page-title" style="font-size: 2.5rem; font-weight: 300;">publications</h1>
-  <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1728-8042&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank" class="btn btn-secondary btn-sm">
-    <i class="fas fa-external-link-alt"></i> NASA/ADS
-  </a>
+<!-- Position the button to the right of the existing title -->
+<div style="position: relative;">
+  <div style="position: absolute; right: 0; top: -2.5rem;">
+    <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1728-8042&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank" class="btn btn-secondary btn-sm">
+      <i class="fas fa-external-link-alt"></i> NASA/ADS
+    </a>
+  </div>
 </div>
-
-<!-- Hide the default title that comes from layout -->
-<style>
-  .page-header {
-    display: none !important;
-  }
-</style>
 
 <!-- Bibsearch Feature -->
 
