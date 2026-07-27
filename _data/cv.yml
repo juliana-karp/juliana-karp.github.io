@@ -39,31 +39,31 @@
       institution: University of Washington, Seattle, WA
       year: 2026
       description:
-        Advisor: Zeljko Ivezic
+        - Advisor: Zeljko Ivezic
     - title: DESI Single Fiber Lens Search
       institution: Yale University, New Haven, CT
       year: 2025
       description:
-        Discovered four thousand new strong galaxy-galaxy gravitational lens candidates via DESI spectroscopy.
-        Advisors: David Schlegel & Nikhil Padmanabhan
+        - Discovered four thousand new strong galaxy-galaxy gravitational lens candidates via DESI spectroscopy.
+        - Advisors: David Schlegel & Nikhil Padmanabhan
     - title: Student Undergraduate Laboratory Internship (SULI)
       institution: Lawrence Berkeley National Laboratory, Berkeley, CA
       year: 2024
       description:
-        DESI Single Fiber Lens Search, cont.
-        Advisors: David Schlegel, Xiaosheng Huang & Adam Bolton.
+        - Began the DESI Single Fiber Lens Search.
+        - Advisors: David Schlegel, Xiaosheng Huang & Adam Bolton.
     - title: Summer Research Early Identification Program (SR-EIP)
       institution: Kavli Institute for Particle Astrophysics and Cosmology, Stanford, CA
       year: 2023
       description:
-        Characterized galaxy group environment of NGC 4993, origin of first observed binary neutron star merger.
-        Advisors: Risa Wechsler & Viraj Manwadkar
+        - Characterized galaxy group environment of NGC 4993, origin of first observed binary neutron star merger.
+        - Advisors: Risa Wechsler & Viraj Manwadkar
     - title: Anisotropic Satellite Galaxy Quenching
       institution: Kavli Institute for Particle Astrophysics and Cosmology, Stanford, CA
       year: 2022
       description:
-        Investigated causes of anisotropic satellite galaxy quenching in cosmological simulations.
-        Advisors: Risa Wechsler & Johannes Lange
+        - Investigated causes of anisotropic satellite galaxy quenching in cosmological simulations.
+        - Advisors: Risa Wechsler & Johannes Lange
 
 # - title: Academic Interests
 #   type: nested_list
